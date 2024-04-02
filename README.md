@@ -1,1 +1,1 @@
-"# Git-practice" 
+"# type script-assgn-01" 
